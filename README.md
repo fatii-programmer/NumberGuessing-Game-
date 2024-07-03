@@ -30,5 +30,5 @@ Contributions are welcome! Fork the repository, create a feature branch, and sub
 
 This project is licensed under the MIT License.
 
-For any questions or inquiries, feel free to reach out at designerfatii@gmail.com.
+For any questions or inquiries, feel free to reach out at designerfatii@gmail.com
 
